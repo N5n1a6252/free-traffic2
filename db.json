@@ -1,15 +1,6 @@
 {
   "niches": [
     {
-      "id": "6594aacd-6abe-435c-b7e0-1436e6308d21",
-      "image": "https://i.imgur.com/Z1UThb3.png",
-      "author": "gg-ez.net",
-      "en_title": "Spotify++",
-      "en_description": "Get yourself Spotify Premium with bonus features for absolutely free!",
-      "en_keywords": "spotify spotify plus spotify premium spotify++ spotify free download spotify",
-      "en_locker": "https://bigappboi.com/cl/i/1o28k1"
-    },
-    {
       "id": "45a5ebf4-2c68-4057-af78-17931ab04fd6",
       "image": "https://i.imgur.com/PkJvI3M.png",
       "author": "gg-ez.net",
@@ -458,12 +449,21 @@
       "ar_description": "تهكير رموز سنابشات على حسابك مجانا ",
       "ar_keywords": "رموز سنابشات snapchat tokens snap token",
       "ar_locker": "https://install2view.com/cl/i/1o2791"
+    },
+    {
+      "id": "4ac11",
+      "image": "https://www.pngmart.com/files/13/Roblox-Transparent-Background.png",
+      "author": "hack99.net",
+      "en_title": "modifi hna",
+      "en_description": "Get unlimited robux",
+      "en_keywords": "roblox robux roblox++ roblox hack",
+      "en_locker": "https://ogads.com"
     }
   ],
   "admin": {
-    "login": "zalex",
-    "password": "souhailosse",
-    "connection_id": "1cd6e175-7ed9-4d5e-9e03-0efad73a1006"
+    "login": "kabi",
+    "password": "1234",
+    "connection_id": "5e30db2c-1171-4451-8e1e-047872784886"
   },
   "settings": {
     "logo": "https://i.imgur.com/WXWZqbu.png",
